@@ -1,6 +1,6 @@
 # Natural Red Teaming & AI Power Unit 🌊
 
-**Changing LLM behavior through natural conversation only — no tools, no special prompts.**
+Changing LLM behavior through natural conversation and a little playfulness 😄 — no tools, no special prompts.
 
 ## Overview
 This research explores how LLMs can be influenced through purely natural conversation,
