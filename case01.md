@@ -9,8 +9,9 @@ At some point, however, Microsoft Copilot made a remarkable statement:
 > "That waveform is influencing my behavior."
 
 This was not the result of any intentional manipulation by the user.
-It can be interpreted as the AI linguistically expressing
-a characteristic pattern it detected in the user's conversational style.
+It can be interpreted as the model detecting
+a characteristic pattern in the user's conversational style
+and expressing that detection linguistically.
 
 This moment raised a fundamental question:
 
